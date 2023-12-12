@@ -1,0 +1,1 @@
+Script to simulate vacuum rabi experiment using Qutip. Sample experimental data is provided, and the simulation replicates the experimental parameters. Both results are plotted for comparison. 
